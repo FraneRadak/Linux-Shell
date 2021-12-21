@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\Frane\Desktop\Git\Linux Shell\Linux Shell\main.c(8,10): fatal error C1083: Cannot open include file: 'sys/wait.h': No such file or directory
